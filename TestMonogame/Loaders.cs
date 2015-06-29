@@ -8,6 +8,8 @@ using Microsoft.Xna.Framework.Content;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
+using System.Net;
+using System.IO;
 
 namespace GameBaseHelpers
 {
@@ -154,6 +156,35 @@ namespace GameBaseHelpers
             {
                 LoadedTextures.Add(texture.InternalName, Texture2DManager.Load<Texture2D>(texture.FileName));
             }
+        }
+
+        public void loadTextureFromWeb(GraphicsDevice gd, String InternalName, String URI)
+        {
+            HttpWebRequest request = HttpWebRequest.Create(new Uri(URI)) as HttpWebRequest;
+            List<LoadObject> TexturesList = new List<LoadObject>();
+            Dictionary<String, Texture2D> LoadedTextures = new Dictionary<string, Texture2D>();
+            ContentManager Texture2DManager;
+            request.BeginGetResponse((ar) =>
+            {
+                HttpWebResponse response = request.EndGetResponse(ar) as HttpWebResponse;
+                using (Stream stream = response.GetResponseStream())
+                {
+                    using (MemoryStream ms = new MemoryStream())
+                    {
+                        int count = 0;
+                        do
+                        {
+                            byte[] buf = new byte[1024];
+                            count = stream.Read(buf, 0, 1024);
+                            ms.Write(buf, 0, count);
+                        } while (stream.CanRead && count > 0);
+
+                        ms.Seek(0, SeekOrigin.Begin);
+
+                        LoadedTextures.Add(InternalName, Texture2D.FromStream(gd, ms));
+                    }
+                }
+            }, null);
         }
 
         public void unload()

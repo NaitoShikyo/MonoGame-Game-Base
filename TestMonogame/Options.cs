@@ -174,6 +174,10 @@ namespace GameBaseHelpers
             SetGameResolution(CurrentResolution);
         }
 
+
+        /// <summary>
+        /// Returns a list of resolutions the graphic card allows
+        /// </summary>
         private List<Vector2> pop_res()
         {
             List<Vector2> TRes = new List<Vector2>();
@@ -211,6 +215,9 @@ namespace GameBaseHelpers
             get { return new Vector2(GDM.PreferredBackBufferWidth, GDM.PreferredBackBufferHeight); }
         }
 
+        /// <summary>
+        /// Sets the resolution of the viewport
+        /// </summary>
         public void SetGameResolution(Vector2 resolution)
         {
             GDM.PreferredBackBufferHeight = (int)resolution.Y;
@@ -219,6 +226,9 @@ namespace GameBaseHelpers
             ReinitView();
         }
 
+        /// <summary>
+        /// Sets the resolution of the viewport
+        /// </summary>
         public void SetGameResolution(int width,int height)
         {
             GDM.PreferredBackBufferHeight = height;
