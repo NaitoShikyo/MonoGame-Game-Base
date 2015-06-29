@@ -160,7 +160,7 @@ namespace GameBaseHelpers
 
         public void loadTextureFromWeb(GraphicsDevice gd, String InternalName, String CacheLoc, String URI)
         {
-            if (File.Exists(CacheLoc + "/" + InternalName))
+            if (File.Exists("Content/"+ CacheLoc + "/" + InternalName))
             {
                 loadTextureFromCache(gd, InternalName, CacheLoc);
             }
@@ -187,7 +187,7 @@ namespace GameBaseHelpers
 
                     // if the remote file was found, download it
                     using (Stream inputStream = response.GetResponseStream())
-                    using (Stream outputStream = File.OpenWrite("Content/"+CacheLoc + "/" + InternalName))
+                    using (Stream outputStream = File.OpenWrite("Content/" + CacheLoc + "/" + InternalName))
                     {
                         byte[] buffer = new byte[4096];
                         int bytesRead;
@@ -198,10 +198,8 @@ namespace GameBaseHelpers
                         } while (bytesRead != 0);
                     }
                     loadTextureFromCache(gd, InternalName, CacheLoc);
-                    return;
+  
                 }
-                else
-                    return;
             }
         }
 

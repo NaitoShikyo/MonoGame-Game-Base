@@ -17,7 +17,16 @@ namespace GameBaseHelpers
         public Vector2 Position;
         public float Width;
         public float Height;
+
         public float Rotation;
+        public float RotationD
+        {
+            get { return Rotation / (float)Math.PI * 180f; }
+            set { Rotation = value / 180f * (float)Math.PI; }
+        }
+
+        public Vector2 Origin = Vector2.Zero;
+
         public Color ModColor = Color.White;
         protected Texture2D spriteTexture; // Loaded by the Loader but returned to this using function
         public Texture2D Texture { get { return spriteTexture; } }
@@ -44,7 +53,7 @@ namespace GameBaseHelpers
 
         public virtual void Draw(GameTime gameTime, SpriteBatch spriteBatch,SpriteEffects se = SpriteEffects.None)
         {
-            spriteBatch.Draw(spriteTexture,Bounds,sourceRect,ModColor,0f,Vector2.Zero,se,0);
+            spriteBatch.Draw(spriteTexture,Bounds,sourceRect,ModColor,Rotation,Origin,se,0);
         }
 
     }
