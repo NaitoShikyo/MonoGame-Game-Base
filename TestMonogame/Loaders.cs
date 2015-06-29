@@ -158,33 +158,59 @@ namespace GameBaseHelpers
             }
         }
 
-        public void loadTextureFromWeb(GraphicsDevice gd, String InternalName, String URI)
+        public void loadTextureFromWeb(GraphicsDevice gd, String InternalName, String CacheLoc, String URI)
         {
-            HttpWebRequest request = HttpWebRequest.Create(new Uri(URI)) as HttpWebRequest;
-            List<LoadObject> TexturesList = new List<LoadObject>();
-            Dictionary<String, Texture2D> LoadedTextures = new Dictionary<string, Texture2D>();
-            ContentManager Texture2DManager;
-            request.BeginGetResponse((ar) =>
+            if (File.Exists(CacheLoc + "/" + InternalName))
             {
-                HttpWebResponse response = request.EndGetResponse(ar) as HttpWebResponse;
-                using (Stream stream = response.GetResponseStream())
+                loadTextureFromCache(gd, InternalName, CacheLoc);
+            }
+            else
+            {
+                HttpWebRequest request = HttpWebRequest.Create(new Uri(URI)) as HttpWebRequest;
+
+                HttpWebResponse response;
+                try
                 {
-                    using (MemoryStream ms = new MemoryStream())
+                    response = (HttpWebResponse)request.GetResponse();
+                }
+                catch (Exception)
+                {
+                    return;
+                }
+
+
+                if ((response.StatusCode == HttpStatusCode.OK ||
+                    response.StatusCode == HttpStatusCode.Moved ||
+                    response.StatusCode == HttpStatusCode.Redirect) &&
+                    response.ContentType.StartsWith("image", StringComparison.OrdinalIgnoreCase))
+                {
+
+                    // if the remote file was found, download it
+                    using (Stream inputStream = response.GetResponseStream())
+                    using (Stream outputStream = File.OpenWrite("Content/"+CacheLoc + "/" + InternalName))
                     {
-                        int count = 0;
+                        byte[] buffer = new byte[4096];
+                        int bytesRead;
                         do
                         {
-                            byte[] buf = new byte[1024];
-                            count = stream.Read(buf, 0, 1024);
-                            ms.Write(buf, 0, count);
-                        } while (stream.CanRead && count > 0);
-
-                        ms.Seek(0, SeekOrigin.Begin);
-
-                        LoadedTextures.Add(InternalName, Texture2D.FromStream(gd, ms));
+                            bytesRead = inputStream.Read(buffer, 0, buffer.Length);
+                            outputStream.Write(buffer, 0, bytesRead);
+                        } while (bytesRead != 0);
                     }
+                    loadTextureFromCache(gd, InternalName, CacheLoc);
+                    return;
                 }
-            }, null);
+                else
+                    return;
+            }
+        }
+
+        private void loadTextureFromCache(GraphicsDevice gd, String InternalName, String CacheLoc)
+        {
+            using (FileStream stream = new FileStream("Content/"+CacheLoc+"/"+InternalName, FileMode.Open, FileAccess.Read))
+            {
+                LoadedTextures.Add(InternalName, Texture2D.FromStream(gd,stream));
+            }
         }
 
         public void unload()

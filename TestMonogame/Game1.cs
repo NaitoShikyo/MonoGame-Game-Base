@@ -19,6 +19,7 @@ namespace GameBaseHelpers
     {
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
+        MTGExample MTGE;
         Camera2D Cam;
         int ScreenIndex = 0;
 
@@ -29,6 +30,7 @@ namespace GameBaseHelpers
             graphics = new GraphicsDeviceManager(this);
             graphics.PreferMultiSampling = true;
             Content.RootDirectory = "Content";
+            
         }
 
         /// <summary>
@@ -54,6 +56,7 @@ namespace GameBaseHelpers
             ScreenManager.Instance.CurrentScreen.LoadContent();
             ScreenManager.Instance.CurrentScreen.transition.Active = true;
             base.Initialize();
+            MTGE = new MTGExample(this);
         }
 
         /// <summary>
@@ -119,7 +122,7 @@ namespace GameBaseHelpers
                     Exit();
                 }
                 else if (((Menu)ScreenManager.Instance.CurrentScreen).MenuResult == "startClicked"){
-                    ScreenManager.Instance.ChangeGameScreen(new sotice.SoticeFightScreen(this));
+                    ScreenManager.Instance.ChangeGameScreen(MTGE);
                 }
             }
             ScreenManager.Instance.Update(gameTime);
