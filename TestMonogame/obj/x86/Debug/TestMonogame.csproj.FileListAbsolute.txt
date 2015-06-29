@@ -1,0 +1,128 @@
+c:\users\adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\TestMonogame.exe
+c:\users\adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\TestMonogame.pdb
+c:\users\adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\MonoGame.Framework.dll
+c:\users\adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+c:\users\adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\SharpDX.dll
+c:\users\adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\SharpDX.XAudio2.dll
+c:\users\adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\SharpDX.Direct3D11.dll
+c:\users\adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\SharpDX.DXGI.dll
+c:\users\adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\SharpDX.Direct2D1.dll
+c:\users\adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\SharpDX.XInput.dll
+c:\users\adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\SharpDX.RawInput.dll
+c:\users\adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\SharpDX.Direct3D9.dll
+c:\users\adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+c:\users\adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\SharpDX.xml
+c:\users\adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\SharpDX.XAudio2.xml
+c:\users\adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\SharpDX.Direct3D11.xml
+c:\users\adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\SharpDX.DXGI.xml
+c:\users\adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\SharpDX.Direct2D1.xml
+c:\users\adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\SharpDX.XInput.xml
+c:\users\adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\SharpDX.RawInput.xml
+c:\users\adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\SharpDX.Direct3D9.xml
+c:\users\adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\obj\x86\Debug\TestMonogame.csprojResolveAssemblyReference.cache
+c:\users\adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\obj\x86\Debug\TestMonogame.exe
+c:\users\adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\obj\x86\Debug\TestMonogame.pdb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\IgnoreMe.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\Content\1.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\Content\2.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\Content\3.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\Content\EnemyTexture.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\Content\EnemyTexturePlaceholder.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\Content\FightSceneBackground.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\Content\FigthSceneBackground.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\Content\firstRoundEnviroment.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\Content\MrMan.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\Content\MrsWoman.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\Content\playerTexture.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\Content\ProjectileTexture.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\Content\ProjectileTextureBlue.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\Content\Textures\ALiftInPink.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\Content\Textures\BorkenHeartofGold.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\Content\Textures\EnemyTexture.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\Content\Textures\FightSceneBackground.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\Content\Textures\firstRoundEnviroment.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\Content\Textures\HortofGeld.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\Content\Textures\ImBringLiftingBack.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\Content\Textures\Menu.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\Content\Textures\MrMan.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\Content\Textures\MrsWoman.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\Content\Textures\playerTexture.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\Content\Textures\ProjectileTexture.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\Content\Textures\ProjectileTextureBlue.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\Content\Textures\TextBoxDateSim.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\Content\Textures\whiteblock.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\Content\Blown Away.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\Content\Local Forecast.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\Content\Blown Away.wma
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\Content\Local Forecast.wma
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\Content\CF.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\Content\Font\font.xnb
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\Content\Textures\RR.xnb
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\Content\Textures\nn.xnb
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogame\bin\Windows\Debug\Content\Textures\walk.xnb
+C:\Users\Adam\Dropbox\BaseGame\TestMonogame\TestMonogame\obj\x86\Debug\TestMonogame.exe
+C:\Users\Adam\Dropbox\BaseGame\TestMonogame\TestMonogame\obj\x86\Debug\TestMonogame.pdb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\obj\x86\Debug\TestMonogame.exe
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\obj\x86\Debug\TestMonogame.pdb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\obj\x86\Debug\TestMonogame.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\Content\1.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\Content\2.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\Content\3.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\Content\EnemyTexture.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\Content\EnemyTexturePlaceholder.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\Content\FightSceneBackground.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\Content\FigthSceneBackground.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\Content\firstRoundEnviroment.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\Content\MrMan.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\Content\MrsWoman.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\Content\playerTexture.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\Content\ProjectileTexture.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\Content\ProjectileTextureBlue.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\Content\Textures\ALiftInPink.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\Content\Textures\BorkenHeartofGold.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\Content\Textures\EnemyTexture.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\Content\Textures\FightSceneBackground.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\Content\Textures\firstRoundEnviroment.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\Content\Textures\HortofGeld.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\Content\Textures\ImBringLiftingBack.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\Content\Textures\Menu.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\Content\Textures\MrMan.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\Content\Textures\MrsWoman.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\Content\Textures\playerTexture.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\Content\Textures\ProjectileTexture.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\Content\Textures\ProjectileTextureBlue.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\Content\Textures\TextBoxDateSim.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\Content\Textures\whiteblock.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\Content\Textures\RR.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\Content\Textures\nn.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\Content\Textures\walk.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\Content\Blown Away.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\Content\Local Forecast.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\Content\CF.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\Content\Font\font.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\Content\Blown Away.wma
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\Content\Local Forecast.wma
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\TestMonogame.exe
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\TestMonogame.pdb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\IgnoreMe.dll
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\SharpDX.dll
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\SharpDX.xml
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogame\bin\Windows\Debug\SharpDX.Direct3D9.xml

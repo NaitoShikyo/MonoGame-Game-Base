@@ -1,0 +1,2 @@
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogameContent\TestMonogameContentContent\obj\PSM\TestMonogameContentContent.contentprojResolveAssemblyReference.cache
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogameContent\TestMonogameContentContent\obj\PSM\TestMonogameContentContent.contentprojResolveAssemblyReference.cache

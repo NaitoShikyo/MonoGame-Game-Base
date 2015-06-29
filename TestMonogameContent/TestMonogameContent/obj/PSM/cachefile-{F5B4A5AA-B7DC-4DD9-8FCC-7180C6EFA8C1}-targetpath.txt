@@ -1,0 +1,37 @@
+Content\1.xnb
+Content\2.xnb
+Content\3.xnb
+Content\EnemyTexture.xnb
+Content\EnemyTexturePlaceholder.xnb
+Content\FightSceneBackground.xnb
+Content\FigthSceneBackground.xnb
+Content\firstRoundEnviroment.xnb
+Content\MrMan.xnb
+Content\MrsWoman.xnb
+Content\playerTexture.xnb
+Content\ProjectileTexture.xnb
+Content\ProjectileTextureBlue.xnb
+Content\Textures\ALiftInPink.xnb
+Content\Textures\BorkenHeartofGold.xnb
+Content\Textures\EnemyTexture.xnb
+Content\Textures\FightSceneBackground.xnb
+Content\Textures\firstRoundEnviroment.xnb
+Content\Textures\HortofGeld.xnb
+Content\Textures\ImBringLiftingBack.xnb
+Content\Textures\Menu.xnb
+Content\Textures\MrMan.xnb
+Content\Textures\MrsWoman.xnb
+Content\Textures\playerTexture.xnb
+Content\Textures\ProjectileTexture.xnb
+Content\Textures\ProjectileTextureBlue.xnb
+Content\Textures\TextBoxDateSim.xnb
+Content\Textures\whiteblock.xnb
+Content\Textures\RR.xnb
+Content\Textures\nn.xnb
+Content\Textures\walk.xnb
+Content\Blown Away.xnb
+Content\Blown Away.wma
+Content\Local Forecast.xnb
+Content\Local Forecast.wma
+Content\CF.xnb
+Content\Font\font.xnb

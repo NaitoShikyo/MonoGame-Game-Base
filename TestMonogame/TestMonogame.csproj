@@ -41,6 +41,7 @@
     <Compile Include="drawables.cs" />
     <Compile Include="ExampleMenu.cs" />
     <Compile Include="Game1.cs" />
+    <Compile Include="MagicCard.cs" />
     <Compile Include="MTGExample.cs" />
     <Compile Include="Options.cs" />
     <Compile Include="GameScreen.cs" />

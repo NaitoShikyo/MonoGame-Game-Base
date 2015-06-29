@@ -1,0 +1,82 @@
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogameContent\TestMonogameContent\bin\PSM\IgnoreMe.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogameContent\TestMonogameContent\obj\PSM\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogameContent\TestMonogameContent\obj\PSM\IgnoreMe.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogameContent\TestMonogameContent\bin\PSM\Content\1.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogameContent\TestMonogameContent\bin\PSM\Content\2.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogameContent\TestMonogameContent\bin\PSM\Content\3.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogameContent\TestMonogameContent\bin\PSM\Content\EnemyTexture.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogameContent\TestMonogameContent\bin\PSM\Content\EnemyTexturePlaceholder.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogameContent\TestMonogameContent\bin\PSM\Content\FightSceneBackground.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogameContent\TestMonogameContent\bin\PSM\Content\FigthSceneBackground.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogameContent\TestMonogameContent\bin\PSM\Content\firstRoundEnviroment.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogameContent\TestMonogameContent\bin\PSM\Content\MrMan.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogameContent\TestMonogameContent\bin\PSM\Content\MrsWoman.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogameContent\TestMonogameContent\bin\PSM\Content\playerTexture.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogameContent\TestMonogameContent\bin\PSM\Content\ProjectileTexture.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogameContent\TestMonogameContent\bin\PSM\Content\ProjectileTextureBlue.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogameContent\TestMonogameContent\bin\PSM\Content\Textures\ALiftInPink.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogameContent\TestMonogameContent\bin\PSM\Content\Textures\BorkenHeartofGold.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogameContent\TestMonogameContent\bin\PSM\Content\Textures\EnemyTexture.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogameContent\TestMonogameContent\bin\PSM\Content\Textures\FightSceneBackground.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogameContent\TestMonogameContent\bin\PSM\Content\Textures\firstRoundEnviroment.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogameContent\TestMonogameContent\bin\PSM\Content\Textures\HortofGeld.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogameContent\TestMonogameContent\bin\PSM\Content\Textures\ImBringLiftingBack.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogameContent\TestMonogameContent\bin\PSM\Content\Textures\Menu.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogameContent\TestMonogameContent\bin\PSM\Content\Textures\MrMan.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogameContent\TestMonogameContent\bin\PSM\Content\Textures\MrsWoman.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogameContent\TestMonogameContent\bin\PSM\Content\Textures\playerTexture.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogameContent\TestMonogameContent\bin\PSM\Content\Textures\ProjectileTexture.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogameContent\TestMonogameContent\bin\PSM\Content\Textures\ProjectileTextureBlue.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogameContent\TestMonogameContent\bin\PSM\Content\Textures\TextBoxDateSim.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogameContent\TestMonogameContent\bin\PSM\Content\Textures\whiteblock.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogameContent\TestMonogameContent\bin\PSM\Content\Blown Away.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogameContent\TestMonogameContent\bin\PSM\Content\Local Forecast.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogameContent\TestMonogameContent\bin\PSM\Content\Blown Away.wma
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogameContent\TestMonogameContent\bin\PSM\Content\Local Forecast.wma
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogameContent\TestMonogameContent\bin\PSM\Content\CF.xnb
+C:\Users\Adam\documents\visual studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogameContent\TestMonogameContent\bin\PSM\Content\Font\font.xnb
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogameContent\TestMonogameContent\bin\PSM\Content\Textures\RR.xnb
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogameContent\TestMonogameContent\bin\PSM\Content\Textures\nn.xnb
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogameContent\TestMonogameContent\obj\PSM\TestMonogameContent.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\Monogame Projects\TestMonogame\TestMonogameContent\TestMonogameContent\bin\PSM\Content\Textures\walk.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogameContent\TestMonogameContent\bin\PSM\Content\1.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogameContent\TestMonogameContent\bin\PSM\Content\2.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogameContent\TestMonogameContent\bin\PSM\Content\3.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogameContent\TestMonogameContent\bin\PSM\Content\EnemyTexture.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogameContent\TestMonogameContent\bin\PSM\Content\EnemyTexturePlaceholder.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogameContent\TestMonogameContent\bin\PSM\Content\FightSceneBackground.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogameContent\TestMonogameContent\bin\PSM\Content\FigthSceneBackground.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogameContent\TestMonogameContent\bin\PSM\Content\firstRoundEnviroment.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogameContent\TestMonogameContent\bin\PSM\Content\MrMan.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogameContent\TestMonogameContent\bin\PSM\Content\MrsWoman.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogameContent\TestMonogameContent\bin\PSM\Content\playerTexture.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogameContent\TestMonogameContent\bin\PSM\Content\ProjectileTexture.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogameContent\TestMonogameContent\bin\PSM\Content\ProjectileTextureBlue.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogameContent\TestMonogameContent\bin\PSM\Content\Textures\ALiftInPink.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogameContent\TestMonogameContent\bin\PSM\Content\Textures\BorkenHeartofGold.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogameContent\TestMonogameContent\bin\PSM\Content\Textures\EnemyTexture.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogameContent\TestMonogameContent\bin\PSM\Content\Textures\FightSceneBackground.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogameContent\TestMonogameContent\bin\PSM\Content\Textures\firstRoundEnviroment.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogameContent\TestMonogameContent\bin\PSM\Content\Textures\HortofGeld.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogameContent\TestMonogameContent\bin\PSM\Content\Textures\ImBringLiftingBack.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogameContent\TestMonogameContent\bin\PSM\Content\Textures\Menu.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogameContent\TestMonogameContent\bin\PSM\Content\Textures\MrMan.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogameContent\TestMonogameContent\bin\PSM\Content\Textures\MrsWoman.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogameContent\TestMonogameContent\bin\PSM\Content\Textures\playerTexture.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogameContent\TestMonogameContent\bin\PSM\Content\Textures\ProjectileTexture.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogameContent\TestMonogameContent\bin\PSM\Content\Textures\ProjectileTextureBlue.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogameContent\TestMonogameContent\bin\PSM\Content\Textures\TextBoxDateSim.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogameContent\TestMonogameContent\bin\PSM\Content\Textures\whiteblock.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogameContent\TestMonogameContent\bin\PSM\Content\Textures\RR.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogameContent\TestMonogameContent\bin\PSM\Content\Textures\nn.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogameContent\TestMonogameContent\bin\PSM\Content\Textures\walk.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogameContent\TestMonogameContent\bin\PSM\Content\Blown Away.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogameContent\TestMonogameContent\bin\PSM\Content\Local Forecast.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogameContent\TestMonogameContent\bin\PSM\Content\CF.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogameContent\TestMonogameContent\bin\PSM\Content\Font\font.xnb
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogameContent\TestMonogameContent\bin\PSM\Content\Blown Away.wma
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogameContent\TestMonogameContent\bin\PSM\Content\Local Forecast.wma
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogameContent\TestMonogameContent\bin\PSM\IgnoreMe.dll
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogameContent\TestMonogameContent\obj\PSM\TestMonogameContent.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogameContent\TestMonogameContent\obj\PSM\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Adam\Documents\GitHub\TestMonogame\MonoGame-Game-Base\TestMonogameContent\TestMonogameContent\obj\PSM\IgnoreMe.dll
